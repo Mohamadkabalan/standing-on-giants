@@ -1,0 +1,2 @@
+here is an example of how you could write a PHP script that accepts a list of ingredients as a comma-separated list and processes them.
+the script will be run from the command line, it is accepting the list of ingredients as a comma-separated list (i.e. php solution.php Gin, Anis).
